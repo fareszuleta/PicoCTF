@@ -1,0 +1,5 @@
+You can get the flag using the following command
+
+strings warm | grep "picoCTF"
+
+why? Because the file is a Binary file so u can not grep it using the cat command
