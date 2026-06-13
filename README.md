@@ -10,12 +10,6 @@ This repository contains Python implementations and solutions for PicoCTF challe
 
 - **Language**: Python 100%
 
-## Features
-
-- CTF challenge solutions
-- Security problem implementations
-- Educational cybersecurity resources
-- Python-based exploitation scripts
 
 ## Getting Started
 
@@ -42,31 +36,8 @@ python solution.py
 
 ## Challenge Categories
 
-PicoCTF challenges typically cover:
-- **Reverse Engineering** - Analyze and understand compiled code
-- **Cryptography** - Breaking encryption and hashing
-- **Web Exploitation** - Finding vulnerabilities in web applications
-- **Binary Exploitation** - Buffer overflows and memory attacks
-- **Forensics** - Recovering hidden information
 - **General Skills** - CTF fundamentals and tools
 
-## Repository Structure
-
-```
-├── solutions/
-├── scripts/
-├── writeups/
-└── resources/
-```
-
-## Tools & Libraries
-
-Common Python libraries used:
-- `requests` - HTTP requests
-- `pycryptodome` - Cryptographic algorithms
-- `pwntools` - Binary exploitation
-- `beautifulsoup4` - Web scraping
-- And more...
 
 ## Contributing
 
@@ -80,7 +51,6 @@ Feel free to submit issues or pull requests to:
 
 - [PicoCTF Official Website](https://picoctf.org)
 - [CTF Basics Guide](https://ctf101.org)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 ## Disclaimer
 
